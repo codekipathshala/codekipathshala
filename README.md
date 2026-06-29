@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Welcome to Code Ki Pathshala
 
-<!--
-**codekipathshala/codekipathshala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learn Web Development by building real-world projects.
 
-Here are some ideas to get you started:
+Code Ki Pathshala is a developer learning platform where we help beginners become job-ready developers with practical coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 What We Teach
+
+🔥 MERN Stack Development  
+⚛️ React.js  
+🟨 JavaScript  
+🟦 TypeScript  
+🟢 Node.js  
+🍃 MongoDB  
+🚀 Full Stack Development
+
+
+---
+
+## 📚 Our Mission
+
+"Learning code should not be boring.
+Build projects. Solve problems. Become a developer."
+
+---
+
+## 🚀 Featured Projects
+
+### DevTasks
+AI Powered Task Management Platform
+
+### Code Documentation Builder
+Create beautiful API documentation easily
+
+---
+
+## 🎥 Learn With Us
+
+YouTube:
+[Code Ki Pathshala](YOUR_LINK)
+
+
+Website:
+YOUR_WEBSITE
+
+
+---
+
+## 🛠 Tech Stack
+
+![React]
+![JavaScript]
+![Node.js]
+![MongoDB]
+
+
+---
+
+## 🤝 Connect With Us
+
+Twitter:
+LinkedIn:
+Instagram:
+
+---
+
+⭐ Follow us for coding tutorials and developer resources.
